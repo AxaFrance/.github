@@ -2,7 +2,7 @@
 
 Welcome on the AXA France Github Organization
 
-## Our events
+## Our events (and where to meet us)
 
 | Date                      |    Type           |  Animateur                                    | Titre                                 |  Lieu                 |
 |---                        |:-:                |:-:                                            |:-:                                    |--:                    |
@@ -15,7 +15,7 @@ Welcome on the AXA France Github Organization
 | 26/05/2023                | Conférence        |                                               | DevFest                               | Lille                 |
 | 16/06/2023                | BBL               | Sébastien Lallemand                             |  GitOps          | Teams  |
 | Du 20/06 au 30/06/2023    | Conférence        |                                               | Agi Lille      | Lille               |
-
+| 04/07/2023                | BBL               | Sébastien Lallemand                             |  Observabilité ou Chaos           | Teams  |
 
 
 ## Our Opensource projects
