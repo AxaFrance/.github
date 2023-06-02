@@ -26,7 +26,7 @@ Please find here a summary of our open source projets.
 
 [Our opensource process](https://github.com/AxaFrance/oss-workflow)
 
-### Testing
+### GreenIT
 
 | Link                                                               |    Type      |  Abstract                                                                      | 
 |---                                                                 |:-:           |:-:                                                                                |
@@ -61,16 +61,16 @@ Please find here a summary of our open source projets.
 | [DockerPython](https://github.com/AxaFrance/DockerPython)  | #docker #ubi #python             | Docker UBI Image docker for python 3.8 or 3.10    |
 
 
+### Algo
+
+| Link                                                               |    Type      |  Description                                                                      | 
+|---                                                                 |:-:           |:-:                                                                                |
+| [algo-ressources](https://github.com/AxaFrance/algo-ressources)  | #algo             | Repositoy which contains solutions to exercises from code competitions.   |
+
+
 ### Testing
 
 | Link                                                               |    Type      |  Description                                                                      | 
 |---                                                                 |:-:           |:-:                                                                                |
 | [webengine-dotnet](https://github.com/AxaFrance/webengine-dotnet)  | #test             | AXA WebEngine Framework makes it easier to build highly effective test automation solutions for Web, Mobile Web and Mobile App testing.   |
 | [cypress-component](https://github.com/AxaFrance/cypress-component)  | #test             | This package aims to facilitate the reading and writing of Cypress tests. It improves the accessibility of DOM elements via a component-based approach, like current web frameworks. It also facilitates the management of routes in a plugged or unplugged environment.   |
-
-
-### Algo
-
-| Link                                                               |    Type      |  Description                                                                      | 
-|---                                                                 |:-:           |:-:                                                                                |
-| [algo-ressources](https://github.com/AxaFrance/algo-ressources)  | #algo             | Repositoy which contains solutions to exercises from code competitions.   |
