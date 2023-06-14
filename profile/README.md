@@ -13,7 +13,6 @@ Welcome on the AXA France Github Organization
 | Du 24/05 au 26/05/2023    | Conférence        |                                               | AXA Software Engineering Summit       | Cologne               |
 | 26/05/2023                | Conférence        |                                               | DevFest                               | Lille                 |
 | 16/06/2023                | BBL               | Sébastien Lallemand                             |  GitOps          | Teams  |
-
 | 26/06/2023                | BBL               | Huaxing, Jean Prince, Kiko, Joseph, Olivier, François, Jérôme, Mohamed                           |  AXA Data & Engineering Summit Rex          | Teams  |
 | 29/06/2023                | BBL               | Rado, Rachida, Fabien, Maximilien, Betty                             |  SpringIO Rex          | Teams  |
 | Du 29/06 au 30/06/2023    | Conférence        |                                               | Agi Lille      | Lille               |
