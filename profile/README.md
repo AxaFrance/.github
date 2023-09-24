@@ -18,6 +18,20 @@ Welcome on the AXA France Github Organization
 | Du 29/06 au 30/06/2023    | Conférence        |                                               | Agi Lille      | Lille               |
 | 04/07/2023                | BBL               | Sébastien Lallemand                             |  Observabilité ou Chaos           | Teams  |
 | 05/07/2023                | BBL               | All                         |  COP Award           | Teams  |
+| 11/07/2023                | BBL               | All                         |  JFTL Rex           | Teams  |
+| 29/08/2023                | BBL               | DOUBLIER Manon lan et Aboaf Emmanuelle                         |  L'IA et le Handicap : progrès ou exclusion           | Teams  |
+| 07/09/2023                | BBL               | DEMEY Emmanuel                          |  Rex sur les CFPs par le patron des CFPs           | Teams  |
+| 07/09/2023                | BBL               | Thomas Lemarchand & Ops Team                        |  CaaS Workshop           | Teams  |
+| 12/09/2023                | BBL               | Antoine Méausoone & Romain Lespinasse                      |  Github Actions           | Teams  |
+| 18/09/2023                | BBL               | Luc Delannoy                        |  Pourquoi AXA France conserve-t-elle ses SA Mainframe         | Teams  |
+| 28/09/2023                | Dojo               | CHEVALIER Maximilien BUSSIRON Fabien                         |  Compiler son application Java en natif           | Teams  |
+| 3/10/2023                | BBL               | HAMZA Karim                          |  Open Policy Agent rules the world           | Teams  |
+| 10/10/2023                | BBL               | CHIBANE Yanis                          |  Retour sur l'agi Lille         | Teams  |
+| 12/10/2023                | Conférence               | All                         |  Cloud Nord 2023           | Teams  |
+| 17/10/2023                | BBL               | DOTOU-SEGLA Jean-Prince ARUL Joseph LUCIANI Louis                          |  WebEngine au secours de vos tests !           | Teams  |
+| 26/10/2023                | Dojo               | LEMARCHAND THOMAS THOMAS Guillaume                         |  BBL Rex sur le Redhat Summit de Boston Massachusetts           | Teams  |
+| 07/11/2023                | BBL               | Geoffrey Graveaud                         |  Découvrons ensemble Accelerate        | Teams  |
+| 21/11/2023                | BBL               | Sébastien Lallemand                         |  Chaos Engineering           | Teams  |
 
 ## Our Opensource projects
 
