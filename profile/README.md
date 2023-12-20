@@ -32,6 +32,12 @@ Welcome on the AXA France Github Organization
 | 26/10/2023                | Dojo               | LEMARCHAND THOMAS THOMAS Guillaume                         |  BBL Rex sur le Redhat Summit de Boston Massachusetts           | Teams  |
 | 07/11/2023                | BBL               | Geoffrey Graveaud                         |  Découvrons ensemble Accelerate        | Teams  |
 | 21/11/2023                | BBL               | Sébastien Lallemand                         |  Chaos Engineering           | Teams  |
+| 07/12/2023                | BBL               | Thomas Lemarchand, Guillaume Thomas                        |  BBL Rex sur le Redhat Summit de Boston          | Teams  |
+| 07/12/2023                | BBL               | Florian Evan                       |  RedHat Service Interconnect           | Teams  |
+| 11/12/2023                | BBL               | Florent Aissa                        |  Gestion du Cycle de Vie des plateformes OpenPaaS           | Teams  |
+| 11/01/2024                | BBL               | Ludovic Dehon, Benoit Pimpaud, Quentin Sining                      |  Kestra           | Teams  |
+| 23/01/2024                | BBL               | Jounad Tourvieille                        |  Constellations, new space           | Teams  |
+| 06/02/2024                | BBL               | BEHIN Thierry && Rudy Onfroy                       |  Comment améliorer le TTM en responsabilisant les développeurs.           | Teams  |
 
 ## Our Opensource projects
 
