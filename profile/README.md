@@ -38,6 +38,13 @@ Welcome on the AXA France Github Organization
 | 11/01/2024                | BBL               | Ludovic Dehon, Benoit Pimpaud, Quentin Sining                      |  Kestra           | Teams  |
 | 23/01/2024                | BBL               | Jounad Tourvieille                        |  Constellations, new space           | Teams  |
 | 06/02/2024                | BBL               | BEHIN Thierry && Rudy Onfroy                       |  Comment améliorer le TTM en responsabilisant les développeurs.           | Teams  |
+| 12/03/2024                | BBL               | Sarah Chokayri && Antoine Blancke                      |  Les coulisses de SecureGPT           | Teams  |
+| 12-13/03/2024             | DOJO              | Francis Bacquet && Oracle                      |  Suivi de performance d'une application           | Teams/Wasquehal  |
+| 21/03/2024                | BBL               | Romain rouvoy                      |  Why software is eating the planet           | Teams/Wasquehal  |
+| 25/03/2024                | BBL               | Christophe Girax                       |  Façonner les architectures du futur avec DapR           | Teams  |
+| 04/04/2024                | BBL               | Sébastien Baillet                       |  Container & Security          | Teams  |
+| 10/04/2024                | BBL               | José Paumard                     |  Clean Code avec Java 21           | Teams/Wasquehal  |
+| 11/04/2024                | DOJO              | Jonathan Meunier                       |  Tunez vos mocks           | Teams/Wasquehal  |
 
 ## Our Opensource projects
 
