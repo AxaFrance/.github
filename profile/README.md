@@ -46,8 +46,8 @@ Welcome on the AXA France Github Organization
 | 10/04/2024                | BBL               | José Paumard                     |  Clean Code avec Java 21           | Teams/Wasquehal  |
 | 22/04/2024                | BBL              | Jérôme Lestoquoy                   |  Accessibilité numérique : Retours sur la conférence AXE CON 2024 organisé par Deque, leader du marché           | Teams/Wasquehal  |
 | 13/05/2024                | BBL              | Frédéric De Lené Mirouze                       |  	L'histoire de la courbe de Keeling           | Teams/Wasquehal  |
-| 11/04/2024                | DOJO              | Jacqueline Rwanyiando                  |  Introduction au TDD           | Teams/Wasquehal  |
-| 11/04/2024                | DOJO              | Jonathan Meunier                       |  Reprenez le contrôle vos mocks           | Teams/Wasquehal  |
+| 17/05/2024                | DOJO              | Jacqueline Rwanyiando                  |  Introduction au TDD           | Teams/Wasquehal  |
+| 21/05/2024                | DOJO              | Jonathan Meunier                       |  Reprenez le contrôle vos mocks           | Teams/Wasquehal  |
 | 30/05/2024                | BBL              | Sébastien Baillet                       |  	Container & Security           | Teams/Wasquehal  |
 
 ## Our Opensource projects
