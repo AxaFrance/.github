@@ -6,49 +6,12 @@ Welcome on the AXA France Github Organization
 
 | Date                      |    Type           |  Animateur                                    | Titre                                 |  Lieu                 |
 |---                        |:-:                |:-:                                            |:-:                                    |--:                    |
-| 02/05/2023                | BBL               | Julien Jakubowski                             |  Messaging et streaming scalables avec Apache Pulsar          | Wasquehal/Playground/Teams  |
-| 16/05/2023                | BBL               | Florian Dézé                                  |  MLOPS                                | Wasquehal/Playground/Teams  |
-| 22/05/2023                | BBL               | Anne-Laure De Boissieu & Pauline Rambaud      | La Revue de Code                      | Teams                 |
-| Du 18/05 au 19/05/2023    | Conférence        |                                               | SpringIO                              | Barcelone             |
-| Du 24/05 au 26/05/2023    | Conférence        |                                               | AXA Software Engineering Summit       | Cologne               |
-| 26/05/2023                | Conférence        |                                               | DevFest                               | Lille                 |
-| 16/06/2023                | BBL               | Sébastien Lallemand                             |  GitOps          | Teams  |
-| 26/06/2023                | BBL               | Huaxing, Jean Prince, Kiko, Joseph, Olivier, François, Jérôme, Mohamed                           |  AXA Data & Engineering Summit Rex          | Teams  |
-| 29/06/2023                | BBL               | Rado, Rachida, Fabien, Maximilien, Betty                             |  SpringIO Rex          | Teams  |
-| Du 29/06 au 30/06/2023    | Conférence        |                                               | Agi Lille      | Lille               |
-| 04/07/2023                | BBL               | Sébastien Lallemand                             |  Observabilité ou Chaos           | Teams  |
-| 05/07/2023                | BBL               | All                         |  COP Award           | Teams  |
-| 11/07/2023                | BBL               | All                         |  JFTL Rex           | Teams  |
-| 29/08/2023                | BBL               | DOUBLIER Manon lan et Aboaf Emmanuelle                         |  L'IA et le Handicap : progrès ou exclusion           | Teams  |
-| 07/09/2023                | BBL               | DEMEY Emmanuel                          |  Rex sur les CFPs par le patron des CFPs           | Teams  |
-| 07/09/2023                | BBL               | Thomas Lemarchand & Ops Team                        |  CaaS Workshop           | Teams  |
-| 12/09/2023                | BBL               | Antoine Méausoone & Romain Lespinasse                      |  Github Actions           | Teams  |
-| 18/09/2023                | BBL               | Luc Delannoy                        |  Pourquoi AXA France conserve-t-elle ses SA Mainframe         | Teams  |
-| 28/09/2023                | Dojo               | CHEVALIER Maximilien BUSSIRON Fabien                         |  Compiler son application Java en natif           | Teams  |
-| 3/10/2023                | BBL               | HAMZA Karim                          |  Open Policy Agent rules the world           | Teams  |
-| 10/10/2023                | BBL               | CHIBANE Yanis                          |  Retour sur l'agi Lille         | Teams  |
-| 12/10/2023                | Conférence               | All                         |  Cloud Nord 2023           | Teams  |
-| 17/10/2023                | BBL               | DOTOU-SEGLA Jean-Prince ARUL Joseph LUCIANI Louis                          |  WebEngine au secours de vos tests !           | Teams  |
-| 26/10/2023                | Dojo               | LEMARCHAND THOMAS THOMAS Guillaume                         |  BBL Rex sur le Redhat Summit de Boston Massachusetts           | Teams  |
-| 07/11/2023                | BBL               | Geoffrey Graveaud                         |  Découvrons ensemble Accelerate        | Teams  |
-| 21/11/2023                | BBL               | Sébastien Lallemand                         |  Chaos Engineering           | Teams  |
-| 07/12/2023                | BBL               | Thomas Lemarchand, Guillaume Thomas                        |  BBL Rex sur le Redhat Summit de Boston          | Teams  |
-| 07/12/2023                | BBL               | Florian Evan                       |  RedHat Service Interconnect           | Teams  |
-| 11/12/2023                | BBL               | Florent Aissa                        |  Gestion du Cycle de Vie des plateformes OpenPaaS           | Teams  |
-| 11/01/2024                | BBL               | Ludovic Dehon, Benoit Pimpaud, Quentin Sining                      |  Kestra           | Teams  |
-| 23/01/2024                | BBL               | Jounad Tourvieille                        |  Constellations, new space           | Teams  |
-| 06/02/2024                | BBL               | BEHIN Thierry && Rudy Onfroy                       |  Comment améliorer le TTM en responsabilisant les développeurs.           | Teams  |
-| 12/03/2024                | BBL               | Sarah Chokayri && Antoine Blancke                      |  Les coulisses de SecureGPT           | Teams  |
-| 12-13/03/2024             | DOJO              | Francis Bacquet && Oracle                      |  Suivi de performance d'une application           | Teams/Wasquehal  |
-| 21/03/2024                | BBL               | Romain rouvoy                      |  Why software is eating the planet           | Teams/Wasquehal  |
-| 25/03/2024                | BBL               | Christophe Girax                       |  Façonner les architectures du futur avec DapR           | Teams  |
-| 04/04/2024                | BBL               | Sébastien Baillet                       |  Container & Security          | Teams  |
-| 10/04/2024                | BBL               | José Paumard                     |  Clean Code avec Java 21           | Teams/Wasquehal  |
-| 22/04/2024                | BBL              | Jérôme Lestoquoy                   |  Accessibilité numérique : Retours sur la conférence AXE CON 2024 organisé par Deque, leader du marché           | Teams/Wasquehal  |
-| 13/05/2024                | BBL              | Frédéric De Lené Mirouze                       |  	L'histoire de la courbe de Keeling           | Teams/Wasquehal  |
-| 17/05/2024                | DOJO              | Jacqueline Rwanyiando                  |  Introduction au TDD           | Teams/Wasquehal  |
-| 21/05/2024                | DOJO              | Jonathan Meunier                       |  Reprenez le contrôle vos mocks           | Teams/Wasquehal  |
-| 30/05/2024                | BBL              | Sébastien Baillet                       |  	Container & Security           | Teams/Wasquehal  |
+| 27/08/2024                | BBL              | Florian Ternisien                     |  	Le Radar des Technologies           | Teams/Wasquehal  |
+| 29/08/2024                | BBL              | Mamadou Billo                       |  	Restitution JFTL           | Teams/Nanterre  |
+| 05/09/2024                | BBL              | Lionel Brat, Etienne Dufour, Adeline Charpentier                      |  	Accessibilité dans le test         | Teams/Nanterre  |
+| 10/09/2024                | BBL              | Antoine Balieu, Jonathan Meunier, Pierre Echegut, Ludovice Allegaert, François Descamps                      |  	Table ronde sur les outils d'IA Assist           | Teams/Wasquehal  |
+| 16/09/2024                | BBL              | Jonathan Meunier, Antoine Balieu, Cyrille Guillet                      |  	Quickies x3           | Teams/Wasquehal  |
+| 24/09/2024                | BBL              | Maximilien Chevalier & Ahmed Bouenba                      |  	OpenTelemetry : Explorer le Passé pour Comprendre l'Avenir de l'Observabilité           | Teams/Wasquehal  |
 
 ## Our Opensource projects
 
