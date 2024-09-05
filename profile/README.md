@@ -21,14 +21,15 @@ Please find here a summary of our open source projets.
 
 [Our opensource process](https://github.com/AxaFrance/oss-workflow)
 
-### GreenIT
+### [GreenIT](https://github.com/search?q=topic%3Agreen+org%3AAxaFrance&type=Repositories)
 
 | Link                                                               |    Type      |  Abstract                                                                      | 
 |---                                                                 |:-:           |:-:                                                                                |
 | [lighthouse-ecoindex-aggregator](https://github.com/AxaFrance/lighthouse-ecoindex-aggregator)  | #greenit #front           | This generator tool can be used if you need to generate a global reports for all pages audited by lighthouse and ecoindex tools. After the generation, we will have access to a global HTML report. As an example, you can use this tool at the end of a Cypress test suite in order to generate the final report of your tests.  |
 | [dailyclean](https://github.com/AxaFrance/dailyclean)  | #greenit #openshift          | Daily clean is all you to turn on or off automatically or manually all your pods your kubernetes namespace. Save the planet with DailyClean. Daily clean only use kubernetes native API.   |
+| [SlimFaas](https://github.com/AxaFrance/SlimFaas) | #greenit #openshift | The slimest and simplest Function As A Service |
 
-### Front End
+### [Front End](https://github.com/search?q=topic%3Afront-end-development+org%3AAxaFrance&type=Repositories)
 
 | Link                                                               |    Type      |  Description                                                                      | 
 |---                                                                 |:-:           |:-:                                                                                |
