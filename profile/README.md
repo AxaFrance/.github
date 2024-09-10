@@ -19,6 +19,7 @@ Some of our events are open too, [check this here !](https://www.meetup.com/fr-F
 ## Our Opensource projects
 
 We follow this methodology in order to opensource an initiative : [Our opensource process](https://github.com/AxaFrance/oss-workflow).
+
 Please find here a summary of our initiatives.
 
 ### By Topic
