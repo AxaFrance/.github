@@ -32,5 +32,7 @@ Please find here a summary of our initiatives.
 ### By Technology
 - [Front End](https://github.com/search?q=topic%3Afront-end-development+org%3AAxaFrance&type=Repositories)
 - [.Net/C#](https://github.com/search?q=topic%3Acsharp+topic%3Adotnet+org%3AAxaFrance&type=repositories)
+- [Java](https://github.com/search?q=topic%3Ajava+org%3AAxaFrance&type=repositories)
+- [Python](https://github.com/search?q=topic%3Apython+org%3AAxaFrance&type=repositories)
 
 And many others that are not opensourced yet.
