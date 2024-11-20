@@ -15,6 +15,15 @@ Some of our events are open too, [check this here !](https://www.meetup.com/fr-F
 | 16/09/2024                | BBL              | Jonathan Meunier, Antoine Balieu, Cyrille Guillet                      |  	Quickies x3           | Teams/Wasquehal  |
 | 24/09/2024                | BBL              | Maximilien Chevalier & Ahmed Bouenba                      |  	OpenTelemetry : Explorer le Passé pour Comprendre l'Avenir de l'Observabilité           | Teams/Wasquehal  |
 | 02/10/2024                | BBL              | Antoine Balieu, Jonathan Meunier, Pierre Echegut, Ludovice Allegaert, François Descamps                      |  	Table ronde sur les outils d'IA Assist           | Teams/Wasquehal  |
+| 08/10/2024                | BBL              | Arnaud Pichery                      |  	RAG IA           | Teams/Wasquehal  |
+| 15/10/2024                | BBL              | Adrien Legros et Mourad Ouachani                      |  	MLOps for AI use cases           | Teams/Wasquehal  |
+| 15/10/2024                | BBL              | Adrien Legros et Mourad Ouachani                      |  	MLOps for AI use cases           | Teams/Nanterre  |
+| 24/10/2024                | BBL              | Charles Besselièvre                      |  	Rising Wave           | Teams  |
+| 21/11/2024                | BBL              | Etienne Dufour/Vincent Dugarin                      |  	4 amigos           | Teams/Nanterre  |
+| 28/11/2024                | BBL              | Thierno Diallo | Testcontainers | Teams/Wasquehal  |
+| 03/12/2024                | BBL              | Farida El Ghazlani / Romain Lejeune  |Range ton cloud ! une bonne prévention | Teams/Wasquehal  |
+| 05/12/2024                | BBL              | Maximilien Chevalier / Ahmed Bouenba  |Mise en pratique d'OpenTelemetry | Teams/Wasquehal  |
+| 10/12/2024                | BBL              | Aya Boussaadia / Nicolas Linard  |Kotlin Multiplateforme, enfin près pour la prod? | Teams/Wasquehal  |
 
 ## Our Opensource projects
 
