@@ -24,6 +24,18 @@ Some of our events are open too, [check this here !](https://www.meetup.com/fr-F
 | 03/12/2024                | BBL              | Farida El Ghazlani / Romain Lejeune  |Range ton cloud ! une bonne prévention | Teams/Wasquehal  |
 | 05/12/2024                | BBL              | Maximilien Chevalier / Ahmed Bouenba  |Mise en pratique d'OpenTelemetry | Teams/Wasquehal  |
 | 10/12/2024                | BBL              | Aya Boussaadia / Nicolas Linard  |Kotlin Multiplateforme, enfin près pour la prod? | Teams/Wasquehal  |
+| 09/01/2024                | BBL              | Mael Ropars | Temporal.io | Teams  |
+| 23/01/2024                | BBL              | Nicolas Linard / Jérôme Bourbiaux / Ludovic gras / Jordan Trilles | Cybersécurité | Teams  |
+| 28/01/2024                | BBL              | Samuel Husein / Marie Farrugia | Automatisation E2E Cypress : une collaboration entre développeurs et testeurs | Teams  |
+| 04/02/2024                | BBL              | Cyrille Magnetto | L’IA : atout ou risque pour les designers ?  | Teams  |
+| 10/02/2024                | BBL              | Julien TOPCU / Alexandre RUZÉ | Le Model Mitosis : ne plus se tromper entre les microservices et le monolithe | Teams  |
+| 27/02/2024                | BBL              | Vinvent Dugardin / Mélody Charles | Rex JFTIA | Teams/Wasquehal  |
+| 04/03/2024                | BBL              | Sonia SEDDIKI | Cybersécurité | Teams  |
+| 11/03/2024                | BBL              | Tristan Nitot | Et si on divisait par 4 l'empreinte environnementale du numérique ? | Teams/Nanterre  |
+| 17/03/2024                | BBL              | Hajar Lazaar / Sonia Gargoubi | Data Products | Teams/Nanterre  |
+| 24/03/2024                | BBL              | Melissa Ketfi / François Tirbois| Comment BI et l'IA transforment vos données en actions stratégiques | Teams/Nanterre  |
+| 10/04/2024                | BBL              | Ludovic Dussart | Impact Framework | Teams/Wasquehal  |
+| 24/04/2024                | BBL              | Sonar Source | IA / Sonar | Teams  |
 
 ## Our Opensource projects
 
