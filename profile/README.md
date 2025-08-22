@@ -9,21 +9,6 @@ Leverage these resources, become a contributor, check out our [blog Just Tech IT
 Some of our events are open too, [check this here !](https://www.meetup.com/fr-FR/bbl-axa/)
 | Date                      |    Type           |  Animateur                                    | Titre                                 |  Lieu                 |
 |---                        |:-:                |:-:                                            |:-:                                    |--:                    |
-| 27/08/2024                | BBL              | Florian Ternisien                     |  	Le Radar des Technologies           | Teams/Wasquehal  |
-| 29/08/2024                | BBL              | Mamadou Billo                       |  	Restitution JFTL           | Teams/Nanterre  |
-| 05/09/2024                | BBL              | Lionel Brat, Etienne Dufour, Adeline Charpentier                      |  	Accessibilité dans le test         | Teams/Nanterre  |
-| 16/09/2024                | BBL              | Jonathan Meunier, Antoine Balieu, Cyrille Guillet                      |  	Quickies x3           | Teams/Wasquehal  |
-| 24/09/2024                | BBL              | Maximilien Chevalier & Ahmed Bouenba                      |  	OpenTelemetry : Explorer le Passé pour Comprendre l'Avenir de l'Observabilité           | Teams/Wasquehal  |
-| 02/10/2024                | BBL              | Antoine Balieu, Jonathan Meunier, Pierre Echegut, Ludovice Allegaert, François Descamps                      |  	Table ronde sur les outils d'IA Assist           | Teams/Wasquehal  |
-| 08/10/2024                | BBL              | Arnaud Pichery                      |  	RAG IA           | Teams/Wasquehal  |
-| 15/10/2024                | BBL              | Adrien Legros et Mourad Ouachani                      |  	MLOps for AI use cases           | Teams/Wasquehal  |
-| 15/10/2024                | BBL              | Adrien Legros et Mourad Ouachani                      |  	MLOps for AI use cases           | Teams/Nanterre  |
-| 24/10/2024                | BBL              | Charles Besselièvre                      |  	Rising Wave           | Teams  |
-| 21/11/2024                | BBL              | Etienne Dufour/Vincent Dugarin                      |  	4 amigos           | Teams/Nanterre  |
-| 28/11/2024                | BBL              | Thierno Diallo | Testcontainers | Teams/Wasquehal  |
-| 03/12/2024                | BBL              | Farida El Ghazlani / Romain Lejeune  |Range ton cloud ! une bonne prévention | Teams/Wasquehal  |
-| 05/12/2024                | BBL              | Maximilien Chevalier / Ahmed Bouenba  |Mise en pratique d'OpenTelemetry | Teams/Wasquehal  |
-| 10/12/2024                | BBL              | Aya Boussaadia / Nicolas Linard  |Kotlin Multiplateforme, enfin près pour la prod? | Teams/Wasquehal  |
 | 09/01/2025                | BBL              | Mael Ropars | Temporal.io | Teams  |
 | 23/01/2025                | BBL              | Nicolas Linard / Jérôme Bourbiaux / Ludovic gras / Jordan Trilles | Cybersécurité | Teams  |
 | 28/01/2025                | BBL              | Samuel Husein / Marie Farrugia | Automatisation E2E Cypress : une collaboration entre développeurs et testeurs | Teams  |
@@ -36,6 +21,17 @@ Some of our events are open too, [check this here !](https://www.meetup.com/fr-F
 | 24/03/2025                | BBL              | Melissa Ketfi / François Tirbois| Comment BI et l'IA transforment vos données en actions stratégiques | Teams/Nanterre  |
 | 10/04/2025                | BBL              | Ludovic Dussart | Impact Framework | Teams/Wasquehal  |
 | 24/04/2025                | BBL              | Sonar Source | IA / Sonar | Teams  |
+| 29/04/2025                | BBL              | Guillaume Chervet | Présentation sur les MCP | Teams  |
+| 05/05/2025                | BBL              | Mathieur Laroche | Réduisez le TimeToMarket de vos solutions logicielles en adoptant la plateforme LowCode Ovomnia | Teams  |
+| 12/05/2025                | BBL              | François Descamps | La filière expertise dev - Comment se projeter en tant que Software Engineer Senior après X années d'expérience ? | Teams  |
+| 15/08/2025                | BBL              | José Paumard | Java 25, Deep Dive sur les nouveautés | Teams  |
+| 22/05/2025                | BBL              | Christophe Prudhomme | MAXX, la plateforme lowcode de la SG | Teams  |
+| 03/06/2025                | BBL              | Amandine Vannet et Mohammed Hamdani | Dynatrace et l'observabilité | Teams  |
+| 05/06/2025                | BBL              | Clément Mesureux et Arach Idjadi | Débloquez votre CaaSistant personnel ! | Teams  |
+| 17/06/2025                | BBL              | Laurent Broudoux et Yacine Kheddache | Microcks | Teams  |
+| 23/06/2025                | BBL              | Christophe Merlen et Arach Idjadi | FinOps, le CaaS du siècle :  les cloud providers ne vous feront plus les poches | Teams  |
+| 28/08/2025                | BBL              | David James, Meryem Boutlane, Ludovic Kitoko et Dimitri Mavindi | Echangeons sur la JFTL | Teams  |
+| 04/09/2025                | BBL              | Martin Stievenaert, Benjamin Valembois et Rodney Richard | Lightning Toast Episode 2 - Thème Accessibilité | Teams  |
 
 ## Our Opensource projects
 
