@@ -9,29 +9,11 @@ Leverage these resources, become a contributor, check out our [blog Just Tech IT
 Some of our events are open too, [check this here !](https://www.meetup.com/fr-FR/bbl-axa/)
 | Date                      |    Type           |  Animateur                                    | Titre                                 |  Lieu                 |
 |---                        |:-:                |:-:                                            |:-:                                    |--:                    |
-| 09/01/2025                | BBL              | Mael Ropars | Temporal.io | Teams  |
-| 23/01/2025                | BBL              | Nicolas Linard / Jérôme Bourbiaux / Ludovic gras / Jordan Trilles | Cybersécurité | Teams  |
-| 28/01/2025                | BBL              | Samuel Husein / Marie Farrugia | Automatisation E2E Cypress : une collaboration entre développeurs et testeurs | Teams  |
-| 04/02/2025                | BBL              | Cyrille Magnetto | L’IA : atout ou risque pour les designers ?  | Teams  |
-| 10/02/2025                | BBL              | Julien TOPCU / Alexandre RUZÉ | Le Model Mitosis : ne plus se tromper entre les microservices et le monolithe | Teams  |
-| 27/02/2025                | BBL              | Vinvent Dugardin / Mélody Charles | Rex JFTIA | Teams/Wasquehal  |
-| 04/03/2025                | BBL              | Sonia SEDDIKI | Cybersécurité | Teams  |
-| 11/03/2025                | BBL              | Tristan Nitot | Et si on divisait par 4 l'empreinte environnementale du numérique ? | Teams/Nanterre  |
-| 17/03/2025                | BBL              | Hajar Lazaar / Sonia Gargoubi | Data Products | Teams/Nanterre  |
-| 24/03/2025                | BBL              | Melissa Ketfi / François Tirbois| Comment BI et l'IA transforment vos données en actions stratégiques | Teams/Nanterre  |
-| 10/04/2025                | BBL              | Ludovic Dussart | Impact Framework | Teams/Wasquehal  |
-| 24/04/2025                | BBL              | Sonar Source | IA / Sonar | Teams  |
-| 29/04/2025                | BBL              | Guillaume Chervet | Présentation sur les MCP | Teams  |
-| 05/05/2025                | BBL              | Mathieur Laroche | Réduisez le TimeToMarket de vos solutions logicielles en adoptant la plateforme LowCode Ovomnia | Teams  |
-| 12/05/2025                | BBL              | François Descamps | La filière expertise dev - Comment se projeter en tant que Software Engineer Senior après X années d'expérience ? | Teams  |
-| 15/08/2025                | BBL              | José Paumard | Java 25, Deep Dive sur les nouveautés | Teams  |
-| 22/05/2025                | BBL              | Christophe Prudhomme | MAXX, la plateforme lowcode de la SG | Teams  |
-| 03/06/2025                | BBL              | Amandine Vannet et Mohammed Hamdani | Dynatrace et l'observabilité | Teams  |
-| 05/06/2025                | BBL              | Clément Mesureux et Arach Idjadi | Débloquez votre CaaSistant personnel ! | Teams  |
-| 17/06/2025                | BBL              | Laurent Broudoux et Yacine Kheddache | Microcks | Teams  |
-| 23/06/2025                | BBL              | Christophe Merlen et Arach Idjadi | FinOps, le CaaS du siècle :  les cloud providers ne vous feront plus les poches | Teams  |
-| 28/08/2025                | BBL              | David James, Meryem Boutlane, Ludovic Kitoko et Dimitri Mavindi | Echangeons sur la JFTL | Teams  |
-| 04/09/2025                | BBL              | Martin Stievenaert, Benjamin Valembois et Rodney Richard | Lightning Toast Episode 2 - Thème Accessibilité | Teams  |
+| 05/01/2026                | BBL              | Thibaut Billet | Et si vous donniez vie à vos idées ? Introduction à l'électronique avec Arduino | Teams  |
+| 06/01/2026                | Table Ronde              | Jonathan Meunier && Julien Gaudet | Concevons-vous toujours des applications pour les humains | Teams  |
+| 15/01/2026                | BBL              | Frédéric Fauquette | La pensée et l'IA au travers de Descartes, Kant et Russel | Teams  |
+| 26/01/2026                | BBL              | Laila Aguersi && Ali Geha | L'utilisation de GitHub Copilot pour la migration du toolkit react axa vers design system | Teams  |
+| 05/02/2026                | BBL              | Céline Thooris | Les structures de données, GPS de l'entreprise | Teams  |
 
 ## Our Opensource projects
 
